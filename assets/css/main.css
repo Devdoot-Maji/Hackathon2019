@@ -2209,6 +2209,7 @@ body.modal-open {
   color: #212121;
   font-weight: 400;
   padding: 2px 0px;
+  text-align: center;
 }
 
 #pricing .price-block-wrapper .pricing-list ul li i {
